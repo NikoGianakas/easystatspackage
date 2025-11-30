@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+export(summarize_vector)
+export(summarize_dataframe)
+export(plot_relationship)
+export(run_app)
+import(shiny)
